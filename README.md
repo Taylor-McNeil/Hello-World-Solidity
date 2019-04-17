@@ -3,7 +3,7 @@
 This tutorials can be found  <a href ="https://medium.com/etherereum-salon/hello-ethereum-solan-contract-4643118a6119"> here </a> & 
 <a href = "https://medium.com/etherereum-salon/eth-testing-472c2f73b4c3"> here </a>
 These tutorials were assigned by my Blockchain & Applications class. 
-I am in no way claiming that I created these. I am only following them and learning. 
+I am in no way claiming that I created these. I am only following them and learning. This is part two of assignment four.
 
 <h2> :floppy_disk: Installation </h2>
 
